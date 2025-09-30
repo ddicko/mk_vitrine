@@ -1,2 +1,3 @@
 Besoins: Site Vitrine
 Features: CRUD des produits, Commandes des produits, Paiements online ?
+favicon: update favicon file
